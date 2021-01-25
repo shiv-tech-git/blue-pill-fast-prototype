@@ -64,7 +64,7 @@ led_toggle();
 
 
 ## SYSTEM TIMER
-It is millisecond timer on timer 3. Just tipe needed period in header file. 20 ms for example.
+It is millisecond timer on timer 3. Just type needed period in header file. 20 ms for example.
 ```c
 #define SYSTEM_TIMER_MULTIPLIER 20
 ```
