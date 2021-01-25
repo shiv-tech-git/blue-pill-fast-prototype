@@ -1,4 +1,4 @@
-# Library for fast prototyping on BluePill STM32C8T6
+# Library for fast prototyping using BluePill STM32C8T6
 
 ## One action - one line!
 
