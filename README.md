@@ -8,7 +8,7 @@ No need to init. UART starts automatically  on 9600 baud when you send massage i
 print_msg("%d. My massage: %s", number, massage);	
 ```
 
-If you 9600 is not fast enough you can init uart manualy.
+If you 9600 is not fast enough you can init uart manually.
 ```c
 init_UART1(UART_SPEED_9600);
 init_UART1(UART_SPEED_19200);
